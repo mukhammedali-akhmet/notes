@@ -20,7 +20,7 @@ const Header = () => {
                         </Button>
                     </Link>
                     <Button variant="neutral" size="icon" asChild>
-                        <Link to="">
+                        <Link to="https://github.com/mukhammedali-akhmet/notes">
 
                             <LucideGithub />
                         </Link>
